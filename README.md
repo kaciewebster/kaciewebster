@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Kacie. I'm currently a student at the Galvanize Data Science Immersive looking to join the data science career path in January 2021.
 
 <!--
 **kaciewebster/kaciewebster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
