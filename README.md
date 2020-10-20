@@ -1,6 +1,10 @@
 ### Hi I'm Kacie, and I'm currently a student at the Galvanize Data Science Immersive.
 
-I have a passion for problem solving and a knack for math and statistics. Data science is the perfect field to combine the two. While I was completing my degree in statistics at San Diego State University, I developed an interest for data science. I completed projects covering a wide variety of topics. I worked on a statistical analysis of the relationship between the San Diego housing market and minimum wage. In addition, I developed a principal component analysis, cluster analysis and factorial analysis on the results of the 2020 NCAA men's basketball season (pre-COVID-19). These projects have taught me to have confidence in my abilities and how to utilize resources to help solve difficult problems. I am excited to apply what I have learned to help companies find unique solutions to their real world problems.
+I have a passion for problem solving and a knack for math and statistics. Data science is the perfect field to combine the two.
+
+While I was completing my degree in statistics at San Diego State University, I developed an interest for data science. I completed projects covering a wide variety of topics. I worked on a statistical analysis of the relationship between the San Diego housing market and minimum wage. In addition, I developed a principal component analysis, cluster analysis and factorial analysis on the results of the 2020 NCAA men's basketball season (pre-COVID-19). These projects have taught me to have confidence in my abilities and how to utilize resources to help solve difficult problems.
+
+I am excited to apply what I have learned to help companies find unique solutions to their real world problems.
 
 <!--
 **kaciewebster/kaciewebster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
