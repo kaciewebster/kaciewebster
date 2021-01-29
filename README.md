@@ -1,24 +1,6 @@
-# Hi I'm Kacie, and I'm a Data Analyst.
-## Pronouns: She/Her/Hers
-### [LinkedIn](https://www.linkedin.com/in/kacie-webster/)
+# Check out my data science projects:
+## [Analysis on California Fire Incidents](https://github.com/kaciewebster/ca-fire-incidents)
+## [NBA Player Clustering](https://github.com/kaciewebster/nba-player-clustering)
+## ["Because you listened to ..." Podcast Recommender](https://github.com/kaciewebster/podcast-recommender)
 
-I have a passion for problem solving and a knack for math and statistics. Data science is the perfect field to combine the two.
-
-While I was completing my degree in statistics at San Diego State University, I developed an interest for data science. I completed projects covering a wide variety of topics. I worked on a statistical analysis of the relationship between the San Diego housing market and minimum wage. In addition, I developed a principal component analysis, cluster analysis and factorial analysis on the results of the 2020 NCAA men's basketball season (pre-COVID-19). These projects have taught me to have confidence in my abilities and how to utilize resources to help solve difficult problems.
-
-I'm excited to apply what I have learned to help companies find unique solutions to their real world problems.
-
-<!--
-**kaciewebster/kaciewebster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Also, check me out on [LinkedIn](https://www.linkedin.com/in/kacie-webster/)
