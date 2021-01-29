@@ -1,4 +1,6 @@
-### Hi I'm Kacie, and I'm currently a student at the Galvanize Data Science Immersive.
+# Hi I'm Kacie, and I'm a Data Analyst.
+## Pronouns: She/Her/Hers
+### [LinkedIn](https://www.linkedin.com/in/kacie-webster/)
 
 I have a passion for problem solving and a knack for math and statistics. Data science is the perfect field to combine the two.
 
