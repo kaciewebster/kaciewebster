@@ -5,7 +5,7 @@
 
 ["Because you listened to ..." Podcast Recommender](https://github.com/kaciewebster/podcast-recommender)
 
-## Also, check me out on [LinkedIn](https://www.linkedin.com/in/kacie-webster/)!
-
 ## My current projects:
 [Face Mask Detector](https://github.com/kaciewebster/face-mask-detector)
+
+## Also, check me out on [LinkedIn](https://www.linkedin.com/in/kacie-webster/)!
