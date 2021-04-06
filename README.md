@@ -3,7 +3,7 @@
 
 [NBA Player Clustering](https://github.com/kaciewebster/nba-player-clustering)
 
-["Because you listened to ..." Podcast Recommender](https://github.com/kaciewebster/podcast-recommender)
+[Content Based Podcast Recommender](https://github.com/kaciewebster/podcast-recommender)
 
 ## My current projects:
 [Face Mask Detector](https://github.com/kaciewebster/face-mask-detector)
